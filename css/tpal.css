@@ -1,0 +1,16 @@
+.tpal_image_small {
+	border:1px solid #cccccc;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+.tpal_image_large {
+	border:1px solid #cccccc;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+.tpal_text a {
+	border-bottom:1px dotted #333333;
+	text-decoration:none;
+}
